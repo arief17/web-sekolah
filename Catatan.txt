@@ -1,0 +1,3 @@
+Tahapan Pembuatan Web Sekolah
+- Membuat Design / Layout Web
+- Membuat alur sistem
