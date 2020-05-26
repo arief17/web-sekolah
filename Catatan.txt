@@ -1,3 +1,4 @@
 Tahapan Pembuatan Web Sekolah
 - Membuat Design / Layout Web
 - Membuat alur sistem
+- Membuat Backend program menggunakan codeigniter
